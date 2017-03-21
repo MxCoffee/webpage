@@ -1,0 +1,24 @@
+{
+  "name": "TeresaCoffey",
+  "dependencies": {
+      "next": "*"
+   },
+  "version": "1.0.0",
+  "description": "This is a web page for my resume",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxcoffee/webpage.git"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Teresa Coffey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "next": "^1.2.3"
+  }
+}
